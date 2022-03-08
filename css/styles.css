@@ -1,0 +1,20 @@
+body {background-image:url(https://miro.medium.com/max/768/1*zkjRQ-O2YA04AP6XpT4BIQ.png) }
+.text { color:white; 
+text-align:center;
+}
+img {display:block;
+    width:35%;
+    margin-left:auto;
+    margin-right:auto;
+border-radius:50%;}
+.mainsection {color:black;
+text-align:center; }
+.p {font-family:cursive;
+text-align:center;
+color:rgb(231,224,214);}
+.midsection {color:rgb(231,224,214);
+text-align:center  }
+.endsection {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color:rgb(68, 67, 67);
+text-align:center;
+}
